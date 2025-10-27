@@ -1,0 +1,48 @@
+---
+sources:
+  name:      Unofficial Transcript Source Index
+  shortname: Sources
+  path:      sources.html
+  local:     true
+  RedVal:
+  name:      Red Valley
+  shortname: RedVal
+  path:      RedVal.html
+  local:     true
+incomplete:
+  name:      List of Incomplete Transcripts
+  shortname: Incomplete
+  path:      incomplete.html
+  local:     true
+news:
+  name:      Site News
+  shortname: News
+  path:      news.html
+  local:     true
+rss:
+  name:      RSS Feed
+  shortname: RSS
+  path:      feed.xml
+  local:     true
+ebook:
+  name:      Ebook Download
+  shortname: Ebook
+  path:      "assets/epub/the_magnus_archives.epub"
+  local:     true
+search:
+  name:      "Search (WARNING: Slow! Data-Intensive!)"
+  shortname: "Search"
+  path:      search.html
+  local:     true
+github:
+  name:      "spooky-arc/transcripts"
+  shortname: GitHub
+  path:      https://github.com/james-spooky/unofficial-red-valley-transcripts/
+warnings:
+  name:      Community-Maintained Episode Content Warnings
+  shortname: Content Warnings
+  path:      https://red-valley.fandom.com/wiki/Content_Warnings
+official:
+  name:      Official Transcript Archive
+  shortname: Official Transcripts
+  path:      "https://www.redvalleypod.com/episodes.html"

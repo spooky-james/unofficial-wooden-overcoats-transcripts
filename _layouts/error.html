@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<section class="page-content">
+  <div class="wrapper">
+    <article itemscope><div itemprop="articleBody">
+      {% if page.title %}<h1 itemprop="headline" class="page-title error center">{{ page.title }}</h1>{% endif %}
+
+      <p>{{ content }}</p>
+    </div></article>
+  </div><!--/.wrapper-->
+</section>
