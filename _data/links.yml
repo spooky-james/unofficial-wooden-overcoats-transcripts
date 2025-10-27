@@ -4,10 +4,10 @@ sources:
   shortname: Sources
   path:      sources.html
   local:     true
-  RedVal:
-  name:      Red Valley
-  shortname: RedVal
-  path:      RedVal.html
+  WO:
+  name:      Wooden Overcoats
+  shortname: WO
+  path:      WO.html
   local:     true
 incomplete:
   name:      List of Incomplete Transcripts
