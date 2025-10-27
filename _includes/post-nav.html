@@ -2,7 +2,7 @@
   <div class="previous">
     {% if page.previous.url %}
     <a href="{{ site.baseurl }}{{ page.previous.url }}">
-      <span>← RV{{ page.previous.episode_number }}</span>
+      <span>← WO{{ page.previous.episode_number }}</span>
       {{ page.previous.episode_title }}
     </a>
     {% endif %}
@@ -10,7 +10,7 @@
   <div class="next">
     {% if page.next.url %}
     <a href="{{ site.baseurl }}{{ page.next.url }}">
-      <span>RV{{ page.next.episode_number }} →</span>
+      <span>WO{{ page.next.episode_number }} →</span>
       {{ page.next.episode_title }}
     </a>
     {% endif %}
