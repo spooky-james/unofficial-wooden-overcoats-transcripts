@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Red Valley Transcripts Archive (Unofficial)
+title: Wooden Overcoats Transcripts Archive (Unofficial)
 email: markbecker@gmail.com
 author: james-spooky
 # description: > # this means to ignore newlines until "baseurl:"
-description: 'Red Valley transcripts in slightly-more-readable format. All are converted versions of the official transcripts.'
+description: 'Wooden Overcoats transcripts in slightly-more-readable format. All are converted versions of the official transcripts.'
 language: en-us
 
 # # If you're hosting your site at a Project repository on GitHub pages
